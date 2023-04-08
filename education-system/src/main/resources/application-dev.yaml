@@ -1,0 +1,30 @@
+spring:
+  cloud:
+    nacos:
+      server-addr: 192.168.171.199:8848
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.171.199:3306/os_system?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: root
+  application:
+    name: system-service
+  redis:
+    port: 6379
+    host: 192.168.171.199
+  cache:
+    type: redis
+    redis:
+      time-to-live: 350000000
+      cache-null-values: true
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: assign_id
+logging:
+  level:
+    com.ninep.system: debug
+server:
+  port: 2000

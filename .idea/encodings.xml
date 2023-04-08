@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/educatin-api/education-api-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/educatin-api/education-api-course/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/education-api-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/education-api-course/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/education-api-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/education-api-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/education-api-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/education-api-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-course/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-executor-samples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-executor-samples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-upload/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/system/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

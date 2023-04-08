@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: upload-service
+  cloud:
+    nacos:
+      server-addr: 192.168.171.199:8848
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+  servlet:
+    multipart:
+      max-file-size: 100MB
+server:
+  port: 2001
+feign:
+  circuitbreaker:
+    enabled: true

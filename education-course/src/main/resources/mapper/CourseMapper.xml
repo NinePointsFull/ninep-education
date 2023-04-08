@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ninep.course.mapper.CourseMapper">
+    <update id="addCountStudy">
+        update course set count_study=count_study+1 where id=#{item.courseId}
+    </update>
+
+    <update id="addCountBuy">
+        update course set count_buy=count_buy+1 where id=#{item.courseId}
+    </update>
+</mapper>

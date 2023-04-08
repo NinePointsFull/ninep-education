@@ -1,0 +1,31 @@
+spring:
+  cloud:
+    nacos:
+      server-addr: 192.168.171.199:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: upload-service
+          uri: lb://upload-service
+          predicates:
+            - Path=/system/admin/upload/**
+        - id: system-service
+          uri: lb://system-service
+          predicates:
+            - Path=/system/**
+        - id: course-service
+          uri: lb://course-service
+          predicates:
+            - Path=/course/**
+        - id: user-service
+          uri: lb://user-service
+          predicates:
+            - Path=/user/**
+  application:
+    name: gateway-service
+  redis:
+    host: 192.168.171.199
+server:
+  port: 88

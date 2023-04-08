@@ -1,0 +1,11 @@
+# Project exclude paths
+/education-api/education-api-course/target/
+/education-api/education-api-system/target/
+/education-api/education-api-user/target/
+/education-common/target/
+/education-course/target/
+/education-gateway/target/
+/education-job/target/
+/education-system/target/
+/education-upload/target/
+/education-user/target/
